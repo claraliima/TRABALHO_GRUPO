@@ -1,0 +1,232 @@
+tipo,categoria,ano,mil_pessoas
+Atividade,Agropecuária,2012,10226.0
+Atividade,Indústria geral,2012,13268.0
+Atividade,Construção,2012,7624.0
+Atividade,Comércio e reparação de veículos,2012,16808.0
+Atividade,"Transporte, armazenagem e correio",2012,4169.0
+Atividade,Alojamento e alimentação,2012,3838.0
+Atividade,"Informação, finanças e serviços profissionais",2012,9579.0
+Atividade,"Administração pública, educação e saúde",2012,14274.0
+Atividade,Outros serviços,2012,3842.0
+Atividade,Serviços domésticos,2012,5985.0
+Posição,Empregado setor privado com carteira,2012,35156.0
+Posição,Empregado setor privado sem carteira,2012,11243.0
+Posição,Setor público,2012,10965.0
+Posição,Trabalhador doméstico,2012,5985.0
+Posição,Empregador com CNPJ,2012,
+Posição,Empregador sem CNPJ,2012,
+Posição,Conta própria com CNPJ,2012,
+Posição,Conta própria sem CNPJ,2012,
+Posição,Conta própria (total),2012,20054.0
+Posição,Empregador (total),2012,3514.0
+Posição,Trabalhador familiar auxiliar,2012,2727.0
+Atividade,Agropecuária,2013,10071.0
+Atividade,Indústria geral,2013,13149.0
+Atividade,Construção,2013,8058.0
+Atividade,Comércio e reparação de veículos,2013,17375.0
+Atividade,"Transporte, armazenagem e correio",2013,4286.0
+Atividade,Alojamento e alimentação,2013,4021.0
+Atividade,"Informação, finanças e serviços profissionais",2013,9830.0
+Atividade,"Administração pública, educação e saúde",2013,14348.0
+Atividade,Outros serviços,2013,4038.0
+Atividade,Serviços domésticos,2013,5848.0
+Posição,Empregado setor privado com carteira,2013,36334.0
+Posição,Empregado setor privado sem carteira,2013,11027.0
+Posição,Setor público,2013,10948.0
+Posição,Trabalhador doméstico,2013,5848.0
+Posição,Empregador com CNPJ,2013,
+Posição,Empregador sem CNPJ,2013,
+Posição,Conta própria com CNPJ,2013,
+Posição,Conta própria sem CNPJ,2013,
+Posição,Conta própria (total),2013,20494.0
+Posição,Empregador (total),2013,3667.0
+Posição,Trabalhador familiar auxiliar,2013,2720.0
+Atividade,Agropecuária,2014,9452.0
+Atividade,Indústria geral,2014,13465.0
+Atividade,Construção,2014,7971.0
+Atividade,Comércio e reparação de veículos,2014,17627.0
+Atividade,"Transporte, armazenagem e correio",2014,4239.0
+Atividade,Alojamento e alimentação,2014,4245.0
+Atividade,"Informação, finanças e serviços profissionais",2014,10392.0
+Atividade,"Administração pública, educação e saúde",2014,14815.0
+Atividade,Outros serviços,2014,4196.0
+Atividade,Serviços domésticos,2014,5815.0
+Posição,Empregado setor privado com carteira,2014,37557.0
+Posição,Empregado setor privado sem carteira,2014,10545.0
+Posição,Setor público,2014,11186.0
+Posição,Trabalhador doméstico,2014,5813.0
+Posição,Empregador com CNPJ,2014,
+Posição,Empregador sem CNPJ,2014,
+Posição,Conta própria com CNPJ,2014,
+Posição,Conta própria sem CNPJ,2014,
+Posição,Conta própria (total),2014,20876.0
+Posição,Empregador (total),2014,3706.0
+Posição,Trabalhador familiar auxiliar,2014,2553.0
+Atividade,Agropecuária,2015,9298.0
+Atividade,Indústria geral,2015,13127.0
+Atividade,Construção,2015,7667.0
+Atividade,Comércio e reparação de veículos,2015,17780.0
+Atividade,"Transporte, armazenagem e correio",2015,4371.0
+Atividade,Alojamento e alimentação,2015,4407.0
+Atividade,"Informação, finanças e serviços profissionais",2015,10383.0
+Atividade,"Administração pública, educação e saúde",2015,15036.0
+Atividade,Outros serviços,2015,4181.0
+Atividade,Serviços domésticos,2015,5933.0
+Posição,Empregado setor privado com carteira,2015,36714.0
+Posição,Empregado setor privado sem carteira,2015,10258.0
+Posição,Setor público,2015,11129.0
+Posição,Trabalhador doméstico,2015,5901.0
+Posição,Empregador com CNPJ,2015,
+Posição,Empregador sem CNPJ,2015,
+Posição,Conta própria com CNPJ,2015,
+Posição,Conta própria sem CNPJ,2015,
+Posição,Conta própria (total),2015,21738.0
+Posição,Empregador (total),2015,3929.0
+Posição,Trabalhador familiar auxiliar,2015,2526.0
+Atividade,Agropecuária,2016,9042.0
+Atividade,Indústria geral,2016,11768.0
+Atividade,Construção,2016,7425.0
+Atividade,Comércio e reparação de veículos,2016,17573.0
+Atividade,"Transporte, armazenagem e correio",2016,4544.0
+Atividade,Alojamento e alimentação,2016,4654.0
+Atividade,"Informação, finanças e serviços profissionais",2016,9724.0
+Atividade,"Administração pública, educação e saúde",2016,15291.0
+Atividade,Outros serviços,2016,4247.0
+Atividade,Serviços domésticos,2016,6072.0
+Posição,Empregado setor privado com carteira,2016,35144.0
+Posição,Empregado setor privado sem carteira,2016,10312.0
+Posição,Setor público,2016,10933.0
+Posição,Trabalhador doméstico,2016,6007.0
+Posição,Empregador com CNPJ,2016,3193.0
+Posição,Empregador sem CNPJ,2016,640.0
+Posição,Conta própria com CNPJ,2016,4216.0
+Posição,Conta própria sem CNPJ,2016,17842.0
+Posição,Conta própria (total),2016,22058.0
+Posição,Empregador (total),2016,3833.0
+Posição,Trabalhador familiar auxiliar,2016,2058.0
+Atividade,Agropecuária,2017,8464.0
+Atividade,Indústria geral,2017,11904.0
+Atividade,Construção,2017,6984.0
+Atividade,Comércio e reparação de veículos,2017,17671.0
+Atividade,"Transporte, armazenagem e correio",2017,4599.0
+Atividade,Alojamento e alimentação,2017,5152.0
+Atividade,"Informação, finanças e serviços profissionais",2017,10060.0
+Atividade,"Administração pública, educação e saúde",2017,15244.0
+Atividade,Outros serviços,2017,4508.0
+Atividade,Serviços domésticos,2017,6028.0
+Posição,Empregado setor privado com carteira,2017,34176.0
+Posição,Empregado setor privado sem carteira,2017,10871.0
+Posição,Setor público,2017,11003.0
+Posição,Trabalhador doméstico,2017,5990.0
+Posição,Empregador com CNPJ,2017,3353.0
+Posição,Empregador sem CNPJ,2017,814.0
+Posição,Conta própria com CNPJ,2017,4166.0
+Posição,Conta própria sem CNPJ,2017,18121.0
+Posição,Conta própria (total),2017,22287.0
+Posição,Empregador (total),2017,4166.0
+Posição,Trabalhador familiar auxiliar,2017,2142.0
+Atividade,Agropecuária,2018,8440.0
+Atividade,Indústria geral,2018,12000.0
+Atividade,Construção,2018,6839.0
+Atividade,Comércio e reparação de veículos,2018,17826.0
+Atividade,"Transporte, armazenagem e correio",2018,4708.0
+Atividade,Alojamento e alimentação,2018,5354.0
+Atividade,"Informação, finanças e serviços profissionais",2018,10250.0
+Atividade,"Administração pública, educação e saúde",2018,15802.0
+Atividade,Outros serviços,2018,4873.0
+Atividade,Serviços domésticos,2018,6064.0
+Posição,Empregado setor privado com carteira,2018,33978.0
+Posição,Empregado setor privado sem carteira,2018,11450.0
+Posição,Setor público,2018,11282.0
+Posição,Trabalhador doméstico,2018,6049.0
+Posição,Empregador com CNPJ,2018,3455.0
+Posição,Empregador sem CNPJ,2018,885.0
+Posição,Conta própria com CNPJ,2018,4459.0
+Posição,Conta própria sem CNPJ,2018,18513.0
+Posição,Conta própria (total),2018,22972.0
+Posição,Empregador (total),2018,4341.0
+Posição,Trabalhador familiar auxiliar,2018,2131.0
+Atividade,Agropecuária,2019,8449.0
+Atividade,Indústria geral,2019,12254.0
+Atividade,Construção,2019,6888.0
+Atividade,Comércio e reparação de veículos,2019,18068.0
+Atividade,"Transporte, armazenagem e correio",2019,4934.0
+Atividade,Alojamento e alimentação,2019,5582.0
+Atividade,"Informação, finanças e serviços profissionais",2019,10705.0
+Atividade,"Administração pública, educação e saúde",2019,16147.0
+Atividade,Outros serviços,2019,5080.0
+Atividade,Serviços domésticos,2019,6117.0
+Posição,Empregado setor privado com carteira,2019,34465.0
+Posição,Empregado setor privado sem carteira,2019,11955.0
+Posição,Setor público,2019,11366.0
+Posição,Trabalhador doméstico,2019,6071.0
+Posição,Empregador com CNPJ,2019,3529.0
+Posição,Empregador sem CNPJ,2019,815.0
+Posição,Conta própria com CNPJ,2019,4847.0
+Posição,Conta própria sem CNPJ,2019,19122.0
+Posição,Conta própria (total),2019,23969.0
+Posição,Empregador (total),2019,4344.0
+Posição,Trabalhador familiar auxiliar,2019,2089.0
+Atividade,Agropecuária,2020,8232.0
+Atividade,Indústria geral,2020,11425.0
+Atividade,Construção,2020,6110.0
+Atividade,Comércio e reparação de veículos,2020,16426.0
+Atividade,"Transporte, armazenagem e correio",2020,4518.0
+Atividade,Alojamento e alimentação,2020,4385.0
+Atividade,"Informação, finanças e serviços profissionais",2020,10419.0
+Atividade,"Administração pública, educação e saúde",2020,16146.0
+Atividade,Outros serviços,2020,4384.0
+Atividade,Serviços domésticos,2020,4893.0
+Posição,Empregado setor privado com carteira,2020,32083.0
+Posição,Empregado setor privado sem carteira,2020,10122.0
+Posição,Setor público,2020,11609.0
+Posição,Trabalhador doméstico,2020,4849.0
+Posição,Empregador com CNPJ,2020,3276.0
+Posição,Empregador sem CNPJ,2020,691.0
+Posição,Conta própria com CNPJ,2020,5331.0
+Posição,Conta própria sem CNPJ,2020,17085.0
+Posição,Conta própria (total),2020,22416.0
+Posição,Empregador (total),2020,3967.0
+Posição,Trabalhador familiar auxiliar,2020,1913.0
+Atividade,Agropecuária,2021,8825.0
+Atividade,Indústria geral,2021,11871.0
+Atividade,Construção,2021,6955.0
+Atividade,Comércio e reparação de veículos,2021,17306.0
+Atividade,"Transporte, armazenagem e correio",2021,4702.0
+Atividade,Alojamento e alimentação,2021,4623.0
+Atividade,"Informação, finanças e serviços profissionais",2021,11130.0
+Atividade,"Administração pública, educação e saúde",2021,16171.0
+Atividade,Outros serviços,2021,4446.0
+Atividade,Serviços domésticos,2021,5220.0
+Posição,Empregado setor privado com carteira,2021,32904.0
+Posição,Empregado setor privado sem carteira,2021,11246.0
+Posição,Setor público,2021,11353.0
+Posição,Trabalhador doméstico,2021,5168.0
+Posição,Empregador com CNPJ,2021,3069.0
+Posição,Empregador sem CNPJ,2021,704.0
+Posição,Conta própria com CNPJ,2021,6052.0
+Posição,Conta própria sem CNPJ,2021,18851.0
+Posição,Conta própria (total),2021,24902.0
+Posição,Empregador (total),2021,3773.0
+Posição,Trabalhador familiar auxiliar,2021,1953.0
+Atividade,Agropecuária,2022,8684.0
+Atividade,Indústria geral,2022,12623.0
+Atividade,Construção,2022,7371.0
+Atividade,Comércio e reparação de veículos,2022,18928.0
+Atividade,"Transporte, armazenagem e correio",2022,5166.0
+Atividade,Alojamento e alimentação,2022,5353.0
+Atividade,"Informação, finanças e serviços profissionais",2022,11695.0
+Atividade,"Administração pública, educação e saúde",2022,17111.0
+Atividade,Outros serviços,2022,5238.0
+Atividade,Serviços domésticos,2022,5843.0
+Posição,Empregado setor privado com carteira,2022,35945.0
+Posição,Empregado setor privado sem carteira,2022,12927.0
+Posição,Setor público,2022,11853.0
+Posição,Trabalhador doméstico,2022,5797.0
+Posição,Empregador com CNPJ,2022,3431.0
+Posição,Empregador sem CNPJ,2022,802.0
+Posição,Conta própria com CNPJ,2022,6557.0
+Posição,Conta própria sem CNPJ,2022,18981.0
+Posição,Conta própria (total),2022,25537.0
+Posição,Empregador (total),2022,4233.0
+Posição,Trabalhador familiar auxiliar,2022,1754.0

@@ -1,0 +1,352 @@
+uf,sigla,regiao,ano,taxa_desocupacao,taxa_informalidade
+Acre,AC,Norte,2012,9.1,
+Alagoas,AL,Nordeste,2012,11.4,
+Amazonas,AM,Norte,2012,9.7,
+Amapá,AP,Norte,2012,13.3,
+Bahia,BA,Nordeste,2012,11.4,
+Ceará,CE,Nordeste,2012,7.8,
+Distrito Federal,DF,Centro-Oeste,2012,8.9,
+Espírito Santo,ES,Sudeste,2012,7.4,
+Goiás,GO,Centro-Oeste,2012,5.0,
+Maranhão,MA,Nordeste,2012,7.9,
+Minas Gerais,MG,Sudeste,2012,6.7,
+Mato Grosso do Sul,MS,Centro-Oeste,2012,6.1,
+Mato Grosso,MT,Centro-Oeste,2012,5.1,
+Pará,PA,Norte,2012,7.4,
+Paraíba,PB,Nordeste,2012,9.6,
+Pernambuco,PE,Nordeste,2012,9.3,
+Piauí,PI,Nordeste,2012,6.0,
+Paraná,PR,Sul,2012,5.0,
+Rio de Janeiro,RJ,Sudeste,2012,7.6,
+Rio Grande do Norte,RN,Nordeste,2012,10.8,
+Rondônia,RO,Norte,2012,5.7,
+Roraima,RR,Norte,2012,8.0,
+Rio Grande do Sul,RS,Sul,2012,5.4,
+Santa Catarina,SC,Sul,2012,3.4,
+Sergipe,SE,Nordeste,2012,10.3,
+São Paulo,SP,Sudeste,2012,7.2,
+Tocantins,TO,Norte,2012,7.9,
+Acre,AC,Norte,2013,8.5,
+Alagoas,AL,Nordeste,2013,10.3,
+Amazonas,AM,Norte,2013,9.9,
+Amapá,AP,Norte,2013,12.5,
+Bahia,BA,Nordeste,2013,11.5,
+Ceará,CE,Nordeste,2013,7.7,
+Distrito Federal,DF,Centro-Oeste,2013,9.0,
+Espírito Santo,ES,Sudeste,2013,6.8,
+Goiás,GO,Centro-Oeste,2013,5.6,
+Maranhão,MA,Nordeste,2013,8.1,
+Minas Gerais,MG,Sudeste,2013,7.0,
+Mato Grosso do Sul,MS,Centro-Oeste,2013,4.6,
+Mato Grosso,MT,Centro-Oeste,2013,4.4,
+Pará,PA,Norte,2013,7.1,
+Paraíba,PB,Nordeste,2013,9.2,
+Pernambuco,PE,Nordeste,2013,8.8,
+Piauí,PI,Nordeste,2013,7.4,
+Paraná,PR,Sul,2013,4.3,
+Rio de Janeiro,RJ,Sudeste,2013,6.9,
+Rio Grande do Norte,RN,Nordeste,2013,10.8,
+Rondônia,RO,Norte,2013,5.2,
+Roraima,RR,Norte,2013,7.8,
+Rio Grande do Sul,RS,Sul,2013,5.0,
+Santa Catarina,SC,Sul,2013,3.4,
+Sergipe,SE,Nordeste,2013,10.2,
+São Paulo,SP,Sudeste,2013,7.5,
+Tocantins,TO,Norte,2013,7.1,
+Acre,AC,Norte,2014,8.2,
+Alagoas,AL,Nordeste,2014,9.8,
+Amazonas,AM,Norte,2014,8.7,
+Amapá,AP,Norte,2014,12.6,
+Bahia,BA,Nordeste,2014,9.8,
+Ceará,CE,Nordeste,2014,7.1,
+Distrito Federal,DF,Centro-Oeste,2014,9.7,
+Espírito Santo,ES,Sudeste,2014,7.1,
+Goiás,GO,Centro-Oeste,2014,6.1,
+Maranhão,MA,Nordeste,2014,7.6,
+Minas Gerais,MG,Sudeste,2014,6.7,
+Mato Grosso do Sul,MS,Centro-Oeste,2014,4.1,
+Mato Grosso,MT,Centro-Oeste,2014,4.2,
+Pará,PA,Norte,2014,7.8,
+Paraíba,PB,Nordeste,2014,8.1,
+Pernambuco,PE,Nordeste,2014,8.2,
+Piauí,PI,Nordeste,2014,6.0,
+Paraná,PR,Sul,2014,4.0,
+Rio de Janeiro,RJ,Sudeste,2014,6.9,
+Rio Grande do Norte,RN,Nordeste,2014,11.2,
+Rondônia,RO,Norte,2014,3.9,
+Roraima,RR,Norte,2014,7.5,
+Rio Grande do Sul,RS,Sul,2014,5.5,
+Santa Catarina,SC,Sul,2014,3.0,
+Sergipe,SE,Nordeste,2014,8.9,
+São Paulo,SP,Sudeste,2014,7.4,
+Tocantins,TO,Norte,2014,6.6,
+Acre,AC,Norte,2015,8.9,
+Alagoas,AL,Nordeste,2015,11.5,
+Amazonas,AM,Norte,2015,9.5,
+Amapá,AP,Norte,2015,10.9,
+Bahia,BA,Nordeste,2015,11.3,
+Ceará,CE,Nordeste,2015,8.8,
+Distrito Federal,DF,Centro-Oeste,2015,10.4,
+Espírito Santo,ES,Sudeste,2015,9.0,
+Goiás,GO,Centro-Oeste,2015,7.5,
+Maranhão,MA,Nordeste,2015,8.8,
+Minas Gerais,MG,Sudeste,2015,8.8,
+Mato Grosso do Sul,MS,Centro-Oeste,2015,6.6,
+Mato Grosso,MT,Centro-Oeste,2015,6.2,
+Pará,PA,Norte,2015,9.4,
+Paraíba,PB,Nordeste,2015,9.6,
+Pernambuco,PE,Nordeste,2015,10.3,
+Piauí,PI,Nordeste,2015,8.2,
+Paraná,PR,Sul,2015,6.0,
+Rio de Janeiro,RJ,Sudeste,2015,8.7,
+Rio Grande do Norte,RN,Nordeste,2015,11.6,
+Rondônia,RO,Norte,2015,5.7,
+Roraima,RR,Norte,2015,8.9,
+Rio Grande do Sul,RS,Sul,2015,6.3,
+Santa Catarina,SC,Sul,2015,4.4,
+Sergipe,SE,Nordeste,2015,9.2,
+São Paulo,SP,Sudeste,2015,10.1,
+Tocantins,TO,Norte,2015,9.8,
+Acre,AC,Norte,2016,10.5,49.4
+Alagoas,AL,Nordeste,2016,14.5,46.4
+Amazonas,AM,Norte,2016,14.0,57.0
+Amapá,AP,Norte,2016,16.0,47.3
+Bahia,BA,Nordeste,2016,16.2,54.9
+Ceará,CE,Nordeste,2016,11.9,52.7
+Distrito Federal,DF,Centro-Oeste,2016,12.0,26.6
+Espírito Santo,ES,Sudeste,2016,12.4,37.8
+Goiás,GO,Centro-Oeste,2016,10.7,39.9
+Maranhão,MA,Nordeste,2016,11.9,63.1
+Minas Gerais,MG,Sudeste,2016,11.3,38.5
+Mato Grosso do Sul,MS,Centro-Oeste,2016,7.1,35.8
+Mato Grosso,MT,Centro-Oeste,2016,9.6,37.8
+Pará,PA,Norte,2016,11.4,61.0
+Paraíba,PB,Nordeste,2016,11.1,51.1
+Pernambuco,PE,Nordeste,2016,15.1,47.0
+Piauí,PI,Nordeste,2016,9.9,60.5
+Paraná,PR,Sul,2016,8.2,32.5
+Rio de Janeiro,RJ,Sudeste,2016,12.3,33.3
+Rio Grande do Norte,RN,Nordeste,2016,13.5,46.7
+Rondônia,RO,Norte,2016,8.2,49.9
+Roraima,RR,Norte,2016,8.7,41.8
+Rio Grande do Sul,RS,Sul,2016,8.1,33.5
+Santa Catarina,SC,Sul,2016,6.5,27.1
+Sergipe,SE,Nordeste,2016,12.1,50.1
+São Paulo,SP,Sudeste,2016,12.4,28.1
+Tocantins,TO,Norte,2016,12.2,45.8
+Acre,AC,Norte,2017,14.2,52.2
+Alagoas,AL,Nordeste,2017,17.4,46.9
+Amazonas,AM,Norte,2017,14.5,55.9
+Amapá,AP,Norte,2017,17.4,51.6
+Bahia,BA,Nordeste,2017,16.6,54.6
+Ceará,CE,Nordeste,2017,12.4,53.7
+Distrito Federal,DF,Centro-Oeste,2017,12.5,28.6
+Espírito Santo,ES,Sudeste,2017,13.0,40.3
+Goiás,GO,Centro-Oeste,2017,11.0,40.4
+Maranhão,MA,Nordeste,2017,13.5,61.6
+Minas Gerais,MG,Sudeste,2017,12.1,39.4
+Mato Grosso do Sul,MS,Centro-Oeste,2017,9.6,36.2
+Mato Grosso,MT,Centro-Oeste,2017,8.8,38.8
+Pará,PA,Norte,2017,11.4,61.8
+Paraíba,PB,Nordeste,2017,10.2,51.9
+Pernambuco,PE,Nordeste,2017,17.0,49.2
+Piauí,PI,Nordeste,2017,12.2,61.1
+Paraná,PR,Sul,2017,8.9,35.5
+Rio de Janeiro,RJ,Sudeste,2017,14.9,36.4
+Rio Grande do Norte,RN,Nordeste,2017,14.6,49.0
+Rondônia,RO,Norte,2017,7.6,49.4
+Roraima,RR,Norte,2017,10.5,45.6
+Rio Grande do Sul,RS,Sul,2017,8.5,33.9
+Santa Catarina,SC,Sul,2017,7.4,28.0
+Sergipe,SE,Nordeste,2017,14.4,53.3
+São Paulo,SP,Sudeste,2017,13.5,30.8
+Tocantins,TO,Norte,2017,10.9,44.8
+Acre,AC,Norte,2018,13.4,50.4
+Alagoas,AL,Nordeste,2018,16.6,44.2
+Amazonas,AM,Norte,2018,13.9,55.2
+Amapá,AP,Norte,2018,20.7,49.3
+Bahia,BA,Nordeste,2018,16.6,55.2
+Ceará,CE,Nordeste,2018,11.6,54.7
+Distrito Federal,DF,Centro-Oeste,2018,12.3,29.6
+Espírito Santo,ES,Sudeste,2018,11.0,42.9
+Goiás,GO,Centro-Oeste,2018,9.2,40.7
+Maranhão,MA,Nordeste,2018,14.6,60.1
+Minas Gerais,MG,Sudeste,2018,10.8,40.2
+Mato Grosso do Sul,MS,Centro-Oeste,2018,8.0,35.8
+Mato Grosso,MT,Centro-Oeste,2018,7.8,39.9
+Pará,PA,Norte,2018,11.6,61.0
+Paraíba,PB,Nordeste,2018,10.5,53.8
+Pernambuco,PE,Nordeste,2018,16.2,48.3
+Piauí,PI,Nordeste,2018,12.8,56.7
+Paraná,PR,Sul,2018,8.3,34.4
+Rio de Janeiro,RJ,Sudeste,2018,14.8,36.0
+Rio Grande do Norte,RN,Nordeste,2018,12.9,48.6
+Rondônia,RO,Norte,2018,9.4,50.7
+Roraima,RR,Norte,2018,13.0,44.6
+Rio Grande do Sul,RS,Sul,2018,8.3,34.3
+Santa Catarina,SC,Sul,2018,6.3,27.5
+Sergipe,SE,Nordeste,2018,16.5,52.7
+São Paulo,SP,Sudeste,2018,13.2,32.4
+Tocantins,TO,Norte,2018,10.9,44.9
+Acre,AC,Norte,2019,14.7,50.2
+Alagoas,AL,Nordeste,2019,14.5,46.5
+Amazonas,AM,Norte,2019,14.1,57.9
+Amapá,AP,Norte,2019,16.3,54.5
+Bahia,BA,Nordeste,2019,16.3,54.7
+Ceará,CE,Nordeste,2019,11.1,53.9
+Distrito Federal,DF,Centro-Oeste,2019,13.4,30.8
+Espírito Santo,ES,Sudeste,2019,10.3,41.6
+Goiás,GO,Centro-Oeste,2019,10.7,41.2
+Maranhão,MA,Nordeste,2019,14.1,60.4
+Minas Gerais,MG,Sudeste,2019,10.3,39.8
+Mato Grosso do Sul,MS,Centro-Oeste,2019,7.9,39.2
+Mato Grosso,MT,Centro-Oeste,2019,8.2,39.0
+Pará,PA,Norte,2019,10.6,63.6
+Paraíba,PB,Nordeste,2019,12.6,54.4
+Pernambuco,PE,Nordeste,2019,15.2,50.7
+Piauí,PI,Nordeste,2019,12.2,60.5
+Paraná,PR,Sul,2019,8.3,33.2
+Rio de Janeiro,RJ,Sudeste,2019,14.7,37.5
+Rio Grande do Norte,RN,Nordeste,2019,13.1,47.5
+Rondônia,RO,Norte,2019,8.1,49.7
+Roraima,RR,Norte,2019,14.9,50.7
+Rio Grande do Sul,RS,Sul,2019,7.8,33.6
+Santa Catarina,SC,Sul,2019,6.3,27.1
+Sergipe,SE,Nordeste,2019,15.5,54.5
+São Paulo,SP,Sudeste,2019,12.4,31.3
+Tocantins,TO,Norte,2019,12.0,47.5
+Acre,AC,Norte,2020,15.7,47.3
+Alagoas,AL,Nordeste,2020,19.4,46.3
+Amazonas,AM,Norte,2020,14.8,57.2
+Amapá,AP,Norte,2020,16.8,50.5
+Bahia,BA,Nordeste,2020,20.3,48.6
+Ceará,CE,Nordeste,2020,13.3,50.7
+Distrito Federal,DF,Centro-Oeste,2020,14.1,27.9
+Espírito Santo,ES,Sudeste,2020,12.9,38.7
+Goiás,GO,Centro-Oeste,2020,13.1,38.6
+Maranhão,MA,Nordeste,2020,15.5,59.6
+Minas Gerais,MG,Sudeste,2020,12.7,37.0
+Mato Grosso do Sul,MS,Centro-Oeste,2020,9.5,35.0
+Mato Grosso,MT,Centro-Oeste,2020,9.5,37.8
+Pará,PA,Norte,2020,10.5,59.2
+Paraíba,PB,Nordeste,2020,17.8,47.6
+Pernambuco,PE,Nordeste,2020,17.1,45.7
+Piauí,PI,Nordeste,2020,14.6,57.5
+Paraná,PR,Sul,2020,9.7,30.7
+Rio de Janeiro,RJ,Sudeste,2020,17.7,34.4
+Rio Grande do Norte,RN,Nordeste,2020,16.3,42.0
+Rondônia,RO,Norte,2020,10.0,43.9
+Roraima,RR,Norte,2020,16.6,45.3
+Rio Grande do Sul,RS,Sul,2020,9.4,30.2
+Santa Catarina,SC,Sul,2020,6.4,25.7
+Sergipe,SE,Nordeste,2020,19.6,48.3
+São Paulo,SP,Sudeste,2020,14.0,28.7
+Tocantins,TO,Norte,2020,11.2,43.8
+Acre,AC,Norte,2021,16.2,48.3
+Alagoas,AL,Nordeste,2021,18.7,47.6
+Amazonas,AM,Norte,2021,15.4,58.7
+Amapá,AP,Norte,2021,14.4,51.2
+Bahia,BA,Nordeste,2021,21.3,54.3
+Ceará,CE,Nordeste,2021,14.0,51.8
+Distrito Federal,DF,Centro-Oeste,2021,14.6,29.8
+Espírito Santo,ES,Sudeste,2021,12.7,39.9
+Goiás,GO,Centro-Oeste,2021,11.8,40.1
+Maranhão,MA,Nordeste,2021,17.5,59.6
+Minas Gerais,MG,Sudeste,2021,12.1,38.1
+Mato Grosso do Sul,MS,Centro-Oeste,2021,9.5,36.2
+Mato Grosso,MT,Centro-Oeste,2021,9.4,39.1
+Pará,PA,Norte,2021,13.0,58.6
+Paraíba,PB,Nordeste,2021,16.1,51.0
+Pernambuco,PE,Nordeste,2021,20.2,51.2
+Piauí,PI,Nordeste,2021,13.0,58.6
+Paraná,PR,Sul,2021,8.9,31.9
+Rio de Janeiro,RJ,Sudeste,2021,18.1,37.2
+Rio Grande do Norte,RN,Nordeste,2021,15.6,45.3
+Rondônia,RO,Norte,2021,9.4,46.9
+Roraima,RR,Norte,2021,13.8,48.6
+Rio Grande do Sul,RS,Sul,2021,8.8,31.2
+Santa Catarina,SC,Sul,2021,5.1,25.8
+Sergipe,SE,Nordeste,2021,20.6,52.9
+São Paulo,SP,Sudeste,2021,14.4,30.2
+Tocantins,TO,Norte,2021,14.2,44.0
+Acre,AC,Norte,2022,12.4,46.3
+Alagoas,AL,Nordeste,2022,12.0,45.8
+Amazonas,AM,Norte,2022,13.1,57.4
+Amapá,AP,Norte,2022,13.7,47.5
+Bahia,BA,Nordeste,2022,15.1,54.5
+Ceará,CE,Nordeste,2022,9.4,53.4
+Distrito Federal,DF,Centro-Oeste,2022,11.3,30.1
+Espírito Santo,ES,Sudeste,2022,8.5,38.2
+Goiás,GO,Centro-Oeste,2022,7.7,39.1
+Maranhão,MA,Nordeste,2022,11.4,58.5
+Minas Gerais,MG,Sudeste,2022,7.7,37.7
+Mato Grosso do Sul,MS,Centro-Oeste,2022,4.9,33.6
+Mato Grosso,MT,Centro-Oeste,2022,4.0,36.0
+Pará,PA,Norte,2022,9.7,62.7
+Paraíba,PB,Nordeste,2022,12.4,50.5
+Pernambuco,PE,Nordeste,2022,15.9,51.9
+Piauí,PI,Nordeste,2022,10.0,54.8
+Paraná,PR,Sul,2022,6.0,31.4
+Rio de Janeiro,RJ,Sudeste,2022,13.3,37.2
+Rio Grande do Norte,RN,Nordeste,2022,11.9,40.0
+Rondônia,RO,Norte,2022,4.2,47.3
+Roraima,RR,Norte,2022,4.9,44.1
+Rio Grande do Sul,RS,Sul,2022,6.4,31.1
+Santa Catarina,SC,Sul,2022,3.8,27.4
+Sergipe,SE,Nordeste,2022,13.1,52.3
+São Paulo,SP,Sudeste,2022,9.1,30.3
+Tocantins,TO,Norte,2022,7.6,42.8
+Acre,AC,Norte,2023,7.5,45.5
+Alagoas,AL,Nordeste,2023,9.2,45.7
+Amazonas,AM,Norte,2023,9.9,54.0
+Amapá,AP,Norte,2023,11.3,41.7
+Bahia,BA,Nordeste,2023,13.2,53.7
+Ceará,CE,Nordeste,2023,8.5,53.1
+Distrito Federal,DF,Centro-Oeste,2023,10.1,29.7
+Espírito Santo,ES,Sudeste,2023,5.7,39.0
+Goiás,GO,Centro-Oeste,2023,5.8,38.2
+Maranhão,MA,Nordeste,2023,7.9,56.5
+Minas Gerais,MG,Sudeste,2023,5.8,37.4
+Mato Grosso do Sul,MS,Centro-Oeste,2023,4.7,34.5
+Mato Grosso,MT,Centro-Oeste,2023,3.3,34.5
+Pará,PA,Norte,2023,7.7,56.5
+Paraíba,PB,Nordeste,2023,9.6,49.8
+Pernambuco,PE,Nordeste,2023,13.4,50.1
+Piauí,PI,Nordeste,2023,9.8,54.4
+Paraná,PR,Sul,2023,4.8,31.9
+Rio de Janeiro,RJ,Sudeste,2023,10.1,37.1
+Rio Grande do Norte,RN,Nordeste,2023,10.7,44.7
+Rondônia,RO,Norte,2023,3.2,46.1
+Roraima,RR,Norte,2023,6.6,45.6
+Rio Grande do Sul,RS,Sul,2023,5.4,31.9
+Santa Catarina,SC,Sul,2023,3.4,26.4
+Sergipe,SE,Nordeste,2023,11.4,51.9
+São Paulo,SP,Sudeste,2023,7.5,31.5
+Tocantins,TO,Norte,2023,5.8,44.9
+Acre,AC,Norte,2024,6.4,46.1
+Alagoas,AL,Nordeste,2024,7.6,46.9
+Amazonas,AM,Norte,2024,8.4,53.8
+Amapá,AP,Norte,2024,8.3,47.9
+Bahia,BA,Nordeste,2024,10.8,51.4
+Ceará,CE,Nordeste,2024,7.0,54.9
+Distrito Federal,DF,Centro-Oeste,2024,9.6,29.6
+Espírito Santo,ES,Sudeste,2024,3.9,38.6
+Goiás,GO,Centro-Oeste,2024,5.4,36.5
+Maranhão,MA,Nordeste,2024,7.1,55.3
+Minas Gerais,MG,Sudeste,2024,5.0,36.4
+Mato Grosso do Sul,MS,Centro-Oeste,2024,3.9,32.7
+Mato Grosso,MT,Centro-Oeste,2024,2.6,32.9
+Pará,PA,Norte,2024,7.2,58.1
+Paraíba,PB,Nordeste,2024,8.3,50.6
+Pernambuco,PE,Nordeste,2024,10.8,49.5
+Piauí,PI,Nordeste,2024,7.2,56.6
+Paraná,PR,Sul,2024,4.1,31.9
+Rio de Janeiro,RJ,Sudeste,2024,9.3,38.3
+Rio Grande do Norte,RN,Nordeste,2024,8.5,42.7
+Rondônia,RO,Norte,2024,3.3,45.9
+Roraima,RR,Norte,2024,7.5,47.8
+Rio Grande do Sul,RS,Sul,2024,5.2,31.9
+Santa Catarina,SC,Sul,2024,2.9,26.4
+Sergipe,SE,Nordeste,2024,9.0,49.6
+São Paulo,SP,Sudeste,2024,6.2,31.1
+Tocantins,TO,Norte,2024,5.5,44.1

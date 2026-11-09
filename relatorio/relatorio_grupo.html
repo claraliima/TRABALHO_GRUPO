@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Relatório-síntese — Lupa Dados</title>
+<style>
+  :root { --azul:#2a78d6; --laranja:#eb6834; --tinta:#111; --tinta2:#4a4a46; --linha:#e3e1dc; }
+  * { box-sizing: border-box; }
+  body { font-family: "DejaVu Sans", Arial, sans-serif; color: var(--tinta); font-size: 9.1pt; line-height: 1.36; margin: 0; background:#fff; }
+  h1 { font-size: 15pt; margin: 0 0 2px; }
+  h2 { font-size: 10.5pt; margin: 9px 0 4px; color: var(--azul); border-bottom: 1px solid var(--linha); padding-bottom: 2px; }
+  p { margin: 3px 0; }
+  .sub { color: var(--tinta2); font-size: 8.6pt; margin-bottom: 6px; }
+  table { border-collapse: collapse; width: 100%; font-size: 8.3pt; margin: 4px 0; }
+  th, td { border-bottom: 1px solid var(--linha); padding: 2.5px 5px; text-align: left; vertical-align: top; }
+  th { background: #f4f3ef; }
+  td.n { text-align: right; white-space: nowrap; }
+  .duas { display: flex; gap: 10px; align-items: flex-start; }
+  .duas > div { flex: 1; }
+  img { width: 100%; }
+  ul { margin: 3px 0 3px 16px; padding: 0; }
+  li { margin: 1.5px 0; }
+  .caixa { background: #f5f8fd; border-left: 3px solid var(--azul); padding: 5px 8px; margin: 5px 0; }
+  .quebra { page-break-before: always; }
+  .fonte { color: var(--tinta2); font-size: 7.6pt; }
+</style>
+</head>
+<body>
+<h1>Lupa Dados — Números que Falam: Descobrindo o Brasil</h1>
+<div class="sub">Relatório-síntese do grupo · Projeto Integrador Python &amp; Matemática · Tema 6: Trabalho e Emprego ·
+Personas: Ministério do Trabalho, Sebrae e Indústria</div>
+
+<table>
+  <tr><th>Integrante</th><th>Parte</th><th>Indicador</th></tr>
+  <tr><td>Arthur de Souza, Clara Lima e Gustavo Henrique</td><td>Grupo</td><td>Tema 6 — Taxa de desocupação (2012 × 2022) e informalidade (PNAD Contínua)</td></tr>
+  <tr><td>Arthur de Souza</td><td>Individual</td><td>1 — População por grupo de idade, sexo e raça (Censo 2022)</td></tr>
+  <tr><td>Clara Lima</td><td>Individual</td><td>2 — Alfabetização por sexo e raça (Censo 2022)</td></tr>
+  <tr><td>Gustavo Henrique</td><td>Individual</td><td>4 — Mulheres (Censo 2022, Projeções e Estatísticas de Gênero)</td></tr>
+</table>
+
+<h2>1. Problema e método</h2>
+<p>A Ministra do Trabalho, o Sebrae e a Indústria querem saber <b>onde o desemprego piorou entre 2012 e 2022</b>, se os
+estados ficaram mais desiguais, <b>onde está a informalidade</b> e o que aconteceu com o emprego industrial e com o trabalho
+por conta própria. Usamos as médias anuais da PNAD Contínua para as 27 UFs, tratadas em Python (Pandas): leitura das
+tabelas do IBGE, conversão de números no padrão brasileiro, tratamento de símbolos (“-”, “...”), padronização das UFs e
+transformação para formato longo. As estatísticas (média, mediana, moda, quartis, IQR, amplitude, variância, desvio padrão,
+CV e outliers pela regra de 1,5×IQR) foram implementadas com as fórmulas de aula e conferidas contra o NumPy.</p>
+
+<h2>2. Principais resultados</h2>
+<img src="img/desocupacao_uf.png" alt="Taxa de desocupação por UF, 2012 e 2022">
+<div class="duas">
+  <div>
+    <table>
+      <tr><th>Desocupação nas 27 UFs</th><th class="n">2012</th><th class="n">2022</th></tr>
+      <tr><td>Brasil (taxa nacional)</td><td class="n">7,4%</td><td class="n">9,6%</td></tr>
+      <tr><td>Média / mediana das UFs</td><td class="n">7,90 / 7,8</td><td class="n">9,61 / 9,7</td></tr>
+      <tr><td>Q1 – Q3</td><td class="n">6,05 – 9,45</td><td class="n">7,0 – 12,4</td></tr>
+      <tr><td>IQR (p.p.)</td><td class="n">3,4</td><td class="n">5,4</td></tr>
+      <tr><td>Amplitude (p.p.)</td><td class="n">9,9</td><td class="n">12,1</td></tr>
+      <tr><td>Desvio padrão (p.p.)</td><td class="n">2,31</td><td class="n">3,51</td></tr>
+      <tr><td>Coef. de variação</td><td class="n">29,2%</td><td class="n">36,5%</td></tr>
+    </table>
+    <p><b>O desemprego subiu e ficou mais desigual:</b> 22 das 27 UFs pioraram e todas as medidas de dispersão
+    cresceram. Maiores altas: PE (+6,6 p.p.), RJ (+5,7) e PI (+4,0). Melhoraram RR, RO, MS, MT e TO.</p>
+  </div>
+  <div><img src="img/boxplot_2012_2022.png" alt="Boxplot 2012 e 2022"></div>
+</div>
+<div class="caixa"><b>Outliers:</b> entre as 27 UFs não há outliers (em 2022, limites de −1,1% a 20,5%), por isso média e
+mediana quase coincidem. Dentro das regiões, porém, <b>Pernambuco (15,9%)</b> destoa do Nordeste e o <b>Rio de Janeiro
+(13,3%)</b> destoa do Sudeste: com o RJ, a média do Sudeste é 9,65%; sem ele, 8,43% — a mediana (8,8%) é a melhor
+referência para a região.</div>
+
+<div class="quebra"></div>
+<div class="duas">
+  <div>
+    <h2>3. Informalidade e estrutura do emprego</h2>
+    <p>Em 2022, a informalidade foi de 39,4% no Brasil, mas varia de 27,4% (SC) a 62,7% (PA) entre as UFs (mediana 44,1%,
+    IQR 15,5 p.p., desvio padrão 9,76 p.p.). As maiores taxas estão no Norte e no Nordeste: PA, MA, AM, PI e BA. A
+    correlação com a desocupação é <b>r = 0,53</b> (positiva e moderada).</p>
+    <ul>
+      <li><b>Indústria geral:</b> 13,3 mi de ocupados (2012) → 12,6 mi (2022), −4,9%, ainda abaixo de 2012.</li>
+      <li><b>Conta própria com CNPJ:</b> 4,2 mi (2016) → 6,6 mi (2022), +55,5%; mas 19,0 mi seguem sem CNPJ.</li>
+      <li><b>Desigualdade:</b> desocupação de 14,0% entre mulheres pretas ou pardas × 6,3% entre homens brancos.</li>
+    </ul>
+  </div>
+  <div style="flex:0.85"><img src="img/informalidade_desocupacao.png" alt="Dispersão informalidade x desocupação"></div>
+</div>
+
+<h2>4. O que os indicadores individuais acrescentam</h2>
+<ul>
+  <li><b>População (Arthur):</b> idade mediana de 35,2 anos (dados agrupados; IBGE: 35) e média de 36,4 — assimetria à
+  direita pela cauda de idosos. 69,3% estão em idade ativa; o Norte é o mais jovem (mediana 29,3). Outliers entre UFs:
+  SP e MG (população), DF e RJ (densidade) e RR (crescimento de 41%) — a média é muito maior que a mediana.</li>
+  <li><b>Alfabetização (Clara):</b> 93,0% (11,4 mi de analfabetos). Analfabetismo entre UFs: média 8,81% > mediana 6,90%;
+  o Nordeste tem mediana 4,5 vezes a do Sul. Indígenas 16,1% × brancos 4,3%; outliers nos recortes de idosos pretos,
+  pardos e indígenas. DF é outlier (para baixo) no Centro-Oeste.</li>
+  <li><b>Mulheres (Gustavo):</b> 51,5% da população; maioria a partir dos 25–29 anos; outliers da razão de sexo nas
+  idosas do Sul e Sudeste (70+). Participam menos do mercado (53,3% × 73,2%) e recebem 78,9% do rendimento dos homens,
+  apesar de mais escolarizadas.</li>
+</ul>
+
+<h2>5. Recomendações</h2>
+<table>
+  <tr><th>Persona</th><th>Recomendação baseada nos dados</th></tr>
+  <tr><td>Ministério do Trabalho</td><td>Metas regionais (a dispersão entre UFs cresceu); prioridade a PE, BA, RJ e Nordeste;
+  programas com recorte de gênero e raça; creches para ampliar a participação feminina; alfabetização de adultos ligada à
+  qualificação.</td></tr>
+  <tr><td>Sebrae</td><td>Formalização (MEI, crédito orientado, compras públicas) em PA, MA, AM, PI e BA, onde a
+  informalidade passa de 54%; empreendedorismo feminino nas áreas urbanas.</td></tr>
+  <tr><td>Indústria</td><td>O emprego industrial não voltou ao nível de 2012: há mão de obra disponível nos estados com mais
+  desocupação. Qualificação (com etapas de letramento para 45+) e metas de mulheres em cargos técnicos e de liderança.</td></tr>
+</table>
+
+<h2>6. Produto entregue</h2>
+<p>Painel unificado em Streamlit (<code>app.py</code>) com menu de navegação, upload de CSV/XLSX, filtros por ano, região,
+UF, sexo, cor ou raça e faixa etária, KPIs, barras comparativas, boxplots, histogramas, mapas por UF, abas de respostas às
+perguntas de negócio e seção de notícias com imagens. Dashboards individuais em <code>individuais/</code>.</p>
+<p class="fonte">Fontes: IBGE — PNAD Contínua, Retrospectivas 2012-2024 (fev/2025) e 2012-2022; Censo Demográfico 2022;
+Anuário Estatístico do Brasil 2024; Estatísticas de Gênero, 3ª ed. (2024). A série de desocupação por UF foi reponderada
+pelo IBGE em 2024 (Brasil 2022 = 9,6%; na publicação original, 9,3%).</p>
+</body>
+</html>

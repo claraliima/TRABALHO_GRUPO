@@ -1,0 +1,28 @@
+uf,sigla,regiao,ano,alfabetizacao_total,analfabetismo_total,alfabetizacao_quilombolas,analfabetismo_quilombolas,gap_quilombola_pp
+Acre,AC,Norte,2022,87.9,12.1,,,
+Alagoas,AL,Nordeste,2022,82.34,17.66,70.23,29.77,12.11
+Amazonas,AM,Norte,2022,93.06,6.94,92.93,7.07,0.13
+Amapá,AP,Norte,2022,93.53,6.47,90.64,9.36,2.89
+Bahia,BA,Nordeste,2022,87.4,12.6,81.72,18.28,5.68
+Ceará,CE,Nordeste,2022,85.88,14.12,73.62,26.38,12.26
+Distrito Federal,DF,Centro-Oeste,2022,97.23,2.77,98.74,1.26,-1.51
+Espírito Santo,ES,Sudeste,2022,94.38,5.62,86.36,13.64,8.02
+Goiás,GO,Centro-Oeste,2022,94.51,5.49,86.01,13.99,8.5
+Maranhão,MA,Nordeste,2022,84.95,15.05,77.77,22.23,7.18
+Minas Gerais,MG,Sudeste,2022,94.15,5.85,83.8,16.2,10.35
+Mato Grosso do Sul,MS,Centro-Oeste,2022,94.61,5.39,91.45,8.55,3.16
+Mato Grosso,MT,Centro-Oeste,2022,94.19,5.81,86.55,13.45,7.64
+Pará,PA,Norte,2022,91.24,8.76,87.34,12.66,3.9
+Paraíba,PB,Nordeste,2022,84.04,15.96,73.13,26.87,10.91
+Pernambuco,PE,Nordeste,2022,86.59,13.41,74.07,25.93,12.52
+Piauí,PI,Nordeste,2022,82.77,17.23,71.25,28.75,11.52
+Paraná,PR,Sul,2022,95.69,4.31,87.58,12.42,8.11
+Rio de Janeiro,RJ,Sudeste,2022,96.72,3.28,91.67,8.33,5.05
+Rio Grande do Norte,RN,Nordeste,2022,86.14,13.86,75.92,24.08,10.22
+Rondônia,RO,Norte,2022,93.55,6.45,92.36,7.64,1.19
+Roraima,RR,Norte,2022,93.1,6.9,,,
+Rio Grande do Sul,RS,Sul,2022,96.89,3.11,90.26,9.74,6.63
+Santa Catarina,SC,Sul,2022,97.33,2.67,92.43,7.57,4.9
+Sergipe,SE,Nordeste,2022,86.19,13.81,76.24,23.76,9.95
+São Paulo,SP,Sudeste,2022,96.89,3.11,91.18,8.82,5.71
+Tocantins,TO,Norte,2022,90.94,9.06,83.41,16.59,7.53

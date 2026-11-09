@@ -1,0 +1,121 @@
+regiao,situacao,sexo,cor_raca,populacao
+Norte,Urbana,Homens,Branca,1462064
+Norte,Urbana,Mulheres,Branca,1623260
+Norte,Rural,Homens,Branca,273347
+Norte,Rural,Mulheres,Branca,239627
+Nordeste,Urbana,Homens,Branca,5535814
+Nordeste,Urbana,Mulheres,Branca,6436464
+Nordeste,Rural,Homens,Branca,1329920
+Nordeste,Rural,Mulheres,Branca,1269359
+Sudeste,Urbana,Homens,Branca,18749393
+Sudeste,Urbana,Mulheres,Branca,21461061
+Sudeste,Rural,Homens,Branca,1123450
+Sudeste,Rural,Mulheres,Branca,984864
+Sul,Urbana,Homens,Branca,9035505
+Sul,Urbana,Mulheres,Branca,10024308
+Sul,Rural,Homens,Branca,1393876
+Sul,Rural,Mulheres,Branca,1276024
+Centro-Oeste,Urbana,Homens,Branca,2658186
+Centro-Oeste,Urbana,Mulheres,Branca,2955529
+Centro-Oeste,Rural,Homens,Branca,227011
+Centro-Oeste,Rural,Mulheres,Branca,193059
+Norte,Urbana,Homens,Preta,665287
+Norte,Urbana,Mulheres,Preta,564496
+Norte,Rural,Homens,Preta,176132
+Norte,Rural,Mulheres,Preta,124503
+Nordeste,Urbana,Homens,Preta,2869696
+Nordeste,Urbana,Mulheres,Preta,2875219
+Nordeste,Rural,Homens,Preta,749151
+Nordeste,Rural,Mulheres,Preta,632952
+Sudeste,Urbana,Homens,Preta,4274960
+Sudeste,Urbana,Mulheres,Preta,4334438
+Sudeste,Rural,Homens,Preta,225359
+Sudeste,Rural,Mulheres,Preta,168615
+Sul,Urbana,Homens,Preta,717076
+Sul,Urbana,Mulheres,Preta,695678
+Sul,Rural,Homens,Preta,52610
+Sul,Rural,Mulheres,Preta,40162
+Centro-Oeste,Urbana,Homens,Preta,730265
+Centro-Oeste,Urbana,Mulheres,Preta,652090
+Centro-Oeste,Rural,Homens,Preta,65484
+Centro-Oeste,Rural,Mulheres,Preta,42285
+Norte,Urbana,Homens,Amarela,11792
+Norte,Urbana,Mulheres,Amarela,14318
+Norte,Rural,Homens,Amarela,1663
+Norte,Rural,Mulheres,Amarela,1694
+Nordeste,Urbana,Homens,Amarela,24286
+Nordeste,Urbana,Mulheres,Amarela,33818
+Nordeste,Rural,Homens,Amarela,4899
+Nordeste,Rural,Mulheres,Amarela,5746
+Sudeste,Urbana,Homens,Amarela,261996
+Sudeste,Urbana,Mulheres,Amarela,291334
+Sudeste,Rural,Homens,Amarela,9123
+Sudeste,Rural,Mulheres,Amarela,8399
+Sul,Urbana,Homens,Amarela,55763
+Sul,Urbana,Mulheres,Amarela,59566
+Sul,Rural,Homens,Amarela,2919
+Sul,Rural,Mulheres,Amarela,2590
+Centro-Oeste,Urbana,Homens,Amarela,26857
+Centro-Oeste,Urbana,Mulheres,Amarela,30490
+Centro-Oeste,Rural,Homens,Amarela,1559
+Centro-Oeste,Rural,Mulheres,Amarela,1318
+Norte,Urbana,Homens,Parda,4424209
+Norte,Urbana,Mulheres,Parda,4660553
+Norte,Rural,Homens,Parda,1373745
+Norte,Rural,Mulheres,Parda,1195883
+Nordeste,Urbana,Homens,Parda,11583862
+Nordeste,Urbana,Mulheres,Parda,12921222
+Nordeste,Rural,Homens,Parda,4157005
+Nordeste,Rural,Mulheres,Parda,3897757
+Sudeste,Urbana,Homens,Parda,14984194
+Sudeste,Urbana,Mulheres,Parda,15686872
+Sudeste,Rural,Homens,Parda,1177043
+Sudeste,Rural,Mulheres,Parda,985280
+Sul,Urbana,Homens,Parda,2914335
+Sul,Urbana,Mulheres,Parda,2892990
+Sul,Rural,Homens,Parda,371093
+Sul,Rural,Mulheres,Parda,320964
+Centro-Oeste,Urbana,Homens,Parda,3803191
+Centro-Oeste,Urbana,Mulheres,Parda,3975682
+Centro-Oeste,Rural,Homens,Parda,410900
+Centro-Oeste,Rural,Mulheres,Parda,346506
+Norte,Urbana,Homens,Indígena,94291
+Norte,Urbana,Mulheres,Indígena,100099
+Norte,Rural,Homens,Indígena,179122
+Norte,Rural,Mulheres,Indígena,166309
+Nordeste,Urbana,Homens,Indígena,76932
+Nordeste,Urbana,Mulheres,Indígena,86264
+Nordeste,Rural,Homens,Indígena,83944
+Nordeste,Rural,Mulheres,Indígena,80585
+Sudeste,Urbana,Homens,Indígena,39032
+Sudeste,Urbana,Mulheres,Indígena,44973
+Sudeste,Rural,Homens,Indígena,13329
+Sudeste,Rural,Mulheres,Indígena,12600
+Sul,Urbana,Homens,Indígena,15357
+Sul,Urbana,Mulheres,Indígena,15903
+Sul,Rural,Homens,Indígena,25269
+Sul,Rural,Mulheres,Indígena,24949
+Centro-Oeste,Urbana,Homens,Indígena,22752
+Centro-Oeste,Urbana,Mulheres,Indígena,25152
+Centro-Oeste,Rural,Homens,Indígena,61040
+Centro-Oeste,Rural,Mulheres,Indígena,59740
+Norte,Urbana,Homens,Sem declaração,888
+Norte,Urbana,Mulheres,Sem declaração,692
+Norte,Rural,Homens,Sem declaração,579
+Norte,Rural,Mulheres,Sem declaração,331
+Nordeste,Urbana,Homens,Sem declaração,2174
+Nordeste,Urbana,Mulheres,Sem declaração,1216
+Nordeste,Rural,Homens,Sem declaração,119
+Nordeste,Rural,Mulheres,Sem declaração,111
+Sudeste,Urbana,Homens,Sem declaração,1651
+Sudeste,Urbana,Mulheres,Sem declaração,1799
+Sudeste,Rural,Homens,Sem declaração,293
+Sudeste,Rural,Mulheres,Sem declaração,55
+Sul,Urbana,Homens,Sem declaração,381
+Sul,Urbana,Mulheres,Sem declaração,350
+Sul,Rural,Homens,Sem declaração,20
+Sul,Rural,Mulheres,Sem declaração,18
+Centro-Oeste,Urbana,Homens,Sem declaração,210
+Centro-Oeste,Urbana,Mulheres,Sem declaração,182
+Centro-Oeste,Rural,Homens,Sem declaração,28
+Centro-Oeste,Rural,Mulheres,Sem declaração,22
